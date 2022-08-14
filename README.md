@@ -1,4 +1,4 @@
-# DSP_HW1_ Questions_My codes are available in the Q folders
+# My codes are available in the Q folders
 
 
 
